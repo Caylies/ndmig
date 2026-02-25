@@ -1,0 +1,10 @@
+[package]
+name = "ndmig"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bollard = "*"
+tokio = { version = "1", features = ["full"] }
+clearscreen = "4.0.5"
+colored = "3.1.1"
