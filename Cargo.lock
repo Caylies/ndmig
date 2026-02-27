@@ -490,6 +490,7 @@ dependencies = [
  "bollard",
  "clearscreen",
  "colored",
+ "futures-util",
  "tokio",
 ]
 
